@@ -106,8 +106,7 @@ Contributions, suggestions, and improvements are welcome! Please open an issue o
 
 ## Contact
 
-For questions, reach out via [GitHub Issues](https://github.com/LondheShubham153/argocd-in-one-shot/issues).
+For questions, reach out via [GitHub Issues](https://github.com/imHarry404/argocd-in-one-shot/issues).
 
-Linkedin: [Shubham Londhe](https://linkedin.com/in/shubhamlondhe1996)
+Linkedin: [Hariom Kumar](https://linkedin.com/in/imharry404)
 
-Discord: [TrainWithShubham](https://discord.gg/wmtaqTUmhW)
